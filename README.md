@@ -24,6 +24,8 @@ After the duplicate handling process, the dataset was normalized to 2NF, 3NF, an
 ## Desktop Application Development
 
 The desktop application was developed using Python's Tkinter library, which offers a simple and intuitive way to create graphical user interfaces (GUIs). The application allows users to search for players based on criteria such as overall rating, age, and nationality. Users can also create their soccer squads, add friends, view and like other users' squads, and track popularity metrics. The GUI was designed to provide a user-friendly experience with intuitive controls and informative displays.
+
+
 ![image](https://github.com/ohadMarmor/fifa-DB-project/assets/92535416/953967c1-7e5d-40b4-9277-ccaa9bdfffe1)
 ![image](https://github.com/ohadMarmor/fifa-DB-project/assets/92535416/a48f59ab-043f-474d-a680-7ef666b86f42)
 ![image](https://github.com/ohadMarmor/fifa-DB-project/assets/92535416/c0760cc7-6c56-4b95-9490-d13b4beb1d2b)
